@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648547591467",
+    "project_id": "manishproject-e4edf",
+    "storage_bucket": "manishproject-e4edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648547591467:android:c7a858087dd05770b4916e",
+        "android_client_info": {
+          "package_name": "com.example.manishproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648547591467-00d67ra7jmlbi7l9d197k7g8l57vs2m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFg1KoEf_Fwg0H_7gxLjpGko5GnhjrDj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648547591467-00d67ra7jmlbi7l9d197k7g8l57vs2m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
